@@ -1,2 +1,2 @@
-# Reniraj-kao-OZI
+# treniraj-kao-OZI
 Ozi
